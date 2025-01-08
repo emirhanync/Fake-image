@@ -1,1 +1,1 @@
-# Fake-image
+![Proje Başlığı](https://your-image-link.jpg)
